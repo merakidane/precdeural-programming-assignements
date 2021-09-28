@@ -1,0 +1,8 @@
+package trial;
+
+public class AdditionTwo {
+    public static void main(String[] args) {
+        System.out.println("hello");
+        
+    }
+}
